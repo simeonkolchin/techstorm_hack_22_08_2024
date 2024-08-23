@@ -1,3 +1,8 @@
 /data/train_dataset_vbras
+/data/numbers_dataset
 /train/runs
 /train/yolov8n.pt
+/train/akbars_cska.mp4
+/train/scrinshots
+/train/vs1.mp4
+/train/vs2.mp4
